@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Kenroy Fuller"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,13 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer
+I attended Lancaster High school, and graduated in the year of 2021. I feel as though math is easier due to the fact that a math problem is straight forward, and doesn't require a whole essay to answer like its counter part English. I personally do better in English class though.
+
+
+
+
+
   
 
      
@@ -25,14 +31,16 @@ Where did you attend High School, and did you graduate? Compare english class to
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
-### my answer   
+### my answer
+I personally would give myself a 4/10 due to the fact that my knowledge on most technology is limited down to Google chrome, and apple products. My connection to the internet in my area actually pretty strong.
   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
+### my answer
+Imma be honest you can call me by my first name, and or any nickname that you want to call just as long as the nickname is not disrespectful to me thank you.
   
    
  
@@ -43,7 +51,8 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-### my answer     
+### my answer 
+I want to leave my mark I want to be the best that I can be by any means no matter what I want to be financially free, and be able to get into the hall of fame in boxing. I would say that exercise science is the best subject for me when it comes to college. I am also trying to get my Associates degree in exercise science as well
   
    
  
@@ -54,7 +63,8 @@ What do you want to achieve in life?  What college subject do you think would be
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-### my answer     
+### my answer
+I went to this country known as belize it was a very good experience if I am being honest, also if I got drafted then I would go to the marines due to the fact that I do love violence I think I would fit in just well in that branch. 
   
    
   
@@ -67,7 +77,8 @@ Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a gene
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
 
-### my answer     
+### my answer
+I am taking Math 115 to get my general edd out of the way. I want to attain a A in this class due to personal reasons...I have someone that I care for and love deeply that I promised that I would pass this class. I will settle for nothing less.
   
    
  
